@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "NEED YOU",
+  "base_artist": "NICKTHEREAL",
+  "createdAt": "2025-12-01T04:22:40.719511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/01_Don't_Need_You_Rameses_B_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Need You",
+      "artist": "Rameses B",
+      "has_synced": true,
+      "path": "select/02_Don't_Need_You_Rameses_B.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Need You Now",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/03_Need_You_Now_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Need You Now",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/04_Need_You_Now_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Need You Tonight (2017 Remaster)",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/05_Need_You_Tonight_(2017_Remaster)_INXS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/06_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Won't Need You Anymore",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/07_I_Won't_Need_You_Anymore_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Won't Need You Anymore (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/08_I_Won't_Need_You_Anymore_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If Hollywood Don't Need You",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/09_If_Hollywood_Don't_Need_You_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Need You",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Need_You_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Need You",
+      "artist": "Otis Leavill",
+      "has_synced": false,
+      "path": "select/11_I_Need_You_Otis_Leavill.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Need You So Bad",
+      "artist": "Magic Sam",
+      "has_synced": true,
+      "path": "select/12_I_Need_You_So_Bad_Magic_Sam.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Need You Tonite",
+      "artist": "Mylo",
+      "has_synced": false,
+      "path": "select/13_Need_You_Tonite_Mylo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Need You Tonite",
+      "artist": "Mylo",
+      "has_synced": false,
+      "path": "select/14_Need_You_Tonite_Mylo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Need You",
+      "artist": "Octo Octa",
+      "has_synced": false,
+      "path": "select/15_I_Need_You_Octo_Octa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Need You Now",
+      "artist": "Glee Cast",
+      "has_synced": false,
+      "path": "select/pl_01_Need_You_Now_Glee_Cast.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Need You Now",
+      "artist": "Glee Cast",
+      "has_synced": false,
+      "path": "select/pl_02_Need_You_Now_Glee_Cast.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Need You Now",
+      "artist": "Glee Cast",
+      "has_synced": false,
+      "path": "select/pl_03_Need_You_Now_Glee_Cast.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Need You",
+      "artist": "Glee Cast",
+      "has_synced": false,
+      "path": "select/pl_04_Need_You_Glee_Cast.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Need You Badly",
+      "artist": "Glee Cast",
+      "has_synced": false,
+      "path": "select/pl_05_Need_You_Badly_Glee_Cast.txt"
+    }
+  ]
+}
